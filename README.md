@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moueenkhan
+- 👋 Hi, I’m @Moueen Akhtar
 - 👀 I’m interested in Software Automation Testing and SDET
 - 🌱 I’m currently learning BDD  with Eclipse
 - 💞️ I’m looking to collaborate on Automation Testing
